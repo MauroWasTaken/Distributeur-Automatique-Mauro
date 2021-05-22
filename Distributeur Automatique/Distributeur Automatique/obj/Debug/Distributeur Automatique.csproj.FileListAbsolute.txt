@@ -1,0 +1,7 @@
+C:\Users\maurx\source\repos\Distributeur Automatique\Distributeur Automatique\obj\Debug\Distributeur Automatique.csprojAssemblyReference.cache
+C:\Users\maurx\source\repos\Distributeur Automatique\Distributeur Automatique\obj\Debug\Distributeur Automatique.csproj.CoreCompileInputs.cache
+C:\Users\maurx\source\repos\Distributeur Automatique\Distributeur Automatique\bin\Debug\Distributeur Automatique.exe.config
+C:\Users\maurx\source\repos\Distributeur Automatique\Distributeur Automatique\bin\Debug\Distributeur Automatique.exe
+C:\Users\maurx\source\repos\Distributeur Automatique\Distributeur Automatique\bin\Debug\Distributeur Automatique.pdb
+C:\Users\maurx\source\repos\Distributeur Automatique\Distributeur Automatique\obj\Debug\Distributeur Automatique.exe
+C:\Users\maurx\source\repos\Distributeur Automatique\Distributeur Automatique\obj\Debug\Distributeur Automatique.pdb
